@@ -90,6 +90,3 @@ On GPU with a batch size of 128, training speed is approximately 0.5 seconds per
 > 徐岂无故宫，岂可顾贪宅。<br>
 > 来子不得其，一笑成绝迹。<br>
 
-
-
-Feel free to adapt and use this README for your project documentation.
